@@ -1,0 +1,9 @@
+body {
+  background: #444;
+}
+
+.post-template article.post, .home-template article.post {
+  background: white;
+  padding: 20px 100px;
+}
+
